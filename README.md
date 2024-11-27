@@ -6,9 +6,12 @@
 
 
 -------
-Projeto de um site criado com HTML + CSS + JavaScript sobre o multiverso dos filmes do Homem Aranha
+<h2 align="center">Projeto de um site criado com HTML + CSS + JavaScript sobre o multiverso dos filmes do Homem Aranha</h2>
 
-https://github.com/user-attachments/assets/bd8083e7-402f-4477-9c2f-a2a1cab0f4a5
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/bd8083e7-402f-4477-9c2f-a2a1cab0f4a5" width="400" />
+</div>
+
 
 ## 💻 Tecnologias
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
